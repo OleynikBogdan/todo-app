@@ -1,19 +1,30 @@
 # To-Do List App
 
+![alt text](image.png)
+
 A responsive task management application built with JavaScript. The app allows users to create, manage, search, and organize their daily tasks with data persistence using Local Storage.
 
 ## Features
 
 - **Create Tasks** — add new tasks with title validation.
+  ![alt text](image-1.png)
 - **Read Tasks** — display all saved tasks dynamically.
 - **Update Tasks** — manage task status and mark tasks as completed.
+  ![alt text](image-2.png)
 - **Delete Tasks** — remove tasks from the list.
+  ![alt text](image-3.png)
 - **Search Tasks** — find tasks by keyword.
+  ![alt text](image-4.png)
 - **Task Filtering** — separate active and completed tasks.
+  ![alt text](image-5.png)
 - **Local Storage** — persist tasks between page reloads.
+  ![alt text](image-6.png)
 - **Responsive Design** — adapt the interface to different screen sizes.
+  ![alt text](image-7.png)
 - **Dynamic UI** — update the interface without reloading the page.
+  ![alt text](image-8.png)
 - **Form Validation** — prevent users from submitting empty task titles.
+  ![alt text](image-9.png)
 
 ## Technologies Used
 
