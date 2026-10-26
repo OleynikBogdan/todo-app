@@ -1,0 +1,4 @@
+.list-group-scroll {
+    height: 60vh;
+    overflow-y: scroll;
+}
